@@ -1,0 +1,219 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.cover{
+    background-image:url('../img/back.jpg');
+    height: 700px;
+    width: cover;
+    /*padding-top: 3%;*/
+}
+.op{
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 700px;
+}
+.logo{
+    color: white;
+    float: left;
+    padding-left: 6%;
+    padding-top: 3%;
+
+}
+.nav1{
+    float: right;
+    margin-right: 10%;
+    padding-top: 3%;
+}
+.n1{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-size: 20px;
+   padding-left: 30px;
+}
+.center{
+    text-align: center;
+    color: white;
+    padding-top: 20%;
+    
+}
+.headRES{
+    font-size: 70px;
+}
+.exe{
+    font-size: 30px;
+    padding-top: 1%;
+}
+.btn1{
+    background-color: #2590E5;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    width: 230px;
+    border-radius: 2%;
+    border: none;
+    margin-top: 3%;
+}
+.second{
+    margin-top: 10%;
+    text-align: center;
+}
+.hS1{
+    padding-bottom: 3%;
+}
+.HS3{
+    padding-left: 20%;
+    padding-right: 20%;
+    word-spacing: 3px;
+    text-align: center;
+}
+.line{
+    height: 3px;
+    width: 170px;
+    background-color:#2196F3;
+    margin-top: 3%;
+}
+.therd{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin-left: 8%;
+   margin-right: 8%;
+   margin-top: 5%;
+}
+.one,.four{
+    flex-shrink: 1;
+    height: 310px;
+    width: 450px;
+    margin-bottom: 3%;
+}
+.one{
+    margin-right: 3%;
+}
+.three{
+    margin-right: 3%;
+}
+.two,.three{
+    flex-grow:4;
+   height: 310px;
+   
+}
+.fourth{
+    background-color:#F7F7F7;
+   padding-top: 10%;
+    text-align: center; 
+    
+}
+.head4{
+    padding-bottom: 25%;
+    
+}
+.HF3{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.line4{
+    height: 3px;
+    width: 170px;
+    background-color:#2196F3;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.M41{
+    height: 300px;
+    width: 32.3%;
+    float: left;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+}
+.cam{
+    color:#2196F3; 
+    font-size: 50px;
+    
+}
+.HM41{
+    padding-top: 5%;
+    text-align: center;
+}
+.M41C{
+    padding-top: 10%;
+}
+.fivth{
+    text-align: center;
+    margin-top: 10%;
+}
+.sixth{
+    background-color: #F7F7F7;
+    margin-top: 10%;
+    text-align: center;
+    height: 700px;
+}
+.HS1{
+    padding-top: 10%;
+}
+.HS3{
+    padding-top: 4%;
+}
+.ser{
+    height: 50px;
+    width: 550px;
+    float: left;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    padding-left: 2%;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.btn{
+    height: 50px;
+    width: 200px;
+    float: left;
+    margin-top: 10%;
+    margin-left: 2%;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 2%;
+    font-size: 16px;
+    background-color: #37A0F3;
+}
+.sserch{
+    text-align: center;
+    padding-left: 6%;
+}
+.footer{
+    background-color: #414A4F;
+}
+.logos{
+    text-align: center;
+    
+}
+.font{
+    color: white;
+    font-size: 30px;
+    padding-left: 1%;
+    margin-top: 5%;
+}
+.FH3{
+    color: white;
+    text-align: center;
+    word-spacing: 2px;
+    margin-top: 2%;
+    text-transform: uppercase;
+    padding-bottom: 12px;
+}
+.FH5{
+    color: white;
+    text-align: center;
+    word-spacing: 2px;
+    padding-bottom: 5%;
+    text-transform: uppercase;
+}
